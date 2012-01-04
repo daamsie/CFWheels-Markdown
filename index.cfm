@@ -8,7 +8,7 @@
 <p>Markdown rendering in CFWheels</p>
 
 <p>It is a simple wrapper for the very robust MarkdownJ implementation in Java. 
-	You will need the Javaloader plugin to get this up and running.</p>
+	Javaloader is bundled in for ease of install.</p>
 	
 <h3>README.md</h3>
 <hr />
